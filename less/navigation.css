@@ -1,0 +1,19 @@
+nav {
+  display: flex;
+}
+nav p {
+  display: flex;
+  font-family: 'Indie Flower', cursive;
+  font-size: 4rem;
+  margin-left: 29%;
+  width: 10%;
+  height: 5%;
+}
+nav ul {
+  display: flex;
+  font-size: 1.6rem;
+  justify-content: space-between;
+  width: 20%;
+  margin-left: 2%;
+  padding-top: 1.5%;
+}
